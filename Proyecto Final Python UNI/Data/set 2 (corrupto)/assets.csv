@@ -1,0 +1,25 @@
+ticker,Nombre,Sector,Pais
+AAPL,Apple Inc.,Technology,USA
+MSFT,Microsoft Corporation,Technology,USA
+6758,Sony Group Corporation,Technology,Japan
+9984,SoftBank Group Corp.,Technology,Japan
+SAP,SAP SE,Technology,Germany
+TOTS3,TOTVS S.A.,Technology,Brazil
+JPM,JPMorgan Chase & Co.,Financials,USA
+8306,Mitsubishi UFJ Financial Group,Financials,Japan
+8411,Mizuho Financial Group,Financials,Japan
+DBK,Deutsche Bank AG,Financials,Germany
+CBK,Commerzbank AG,Financials,Germany
+BBDC4,Banco Bradesco S.A.,Financials,Brazil
+XOM,Exxon Mobil Corporation,Energy,USA
+CVX,Chevron Corporation,Energy,USA
+1605,Inpex Corporation,Energy,Japan
+EOAN,E.ON SE,Energy,Germany
+PETR4,Petrobras,Energy,Brazil
+PRIO3,PRIO S.A.,Energy,Brazil
+KO,The Coca-Cola Company,Consumer,USA
+MCD,McDonald's Corporation,Consumer,USA
+2502,Asahi Group Holdings,Consumer,Japan
+ADS,Adidas AG,Consumer,Germany
+ABEV3,Ambev S.A.,Consumer,Brazil
+LREN3,Lojas Renner S.A.,Consumer,Brazil
