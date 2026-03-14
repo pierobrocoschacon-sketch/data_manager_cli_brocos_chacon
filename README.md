@@ -20,11 +20,17 @@ internamente
 Además, también contamos con un modulo de testeo para pytest: testeo.py, el cual contiene diversos test de calidad de código
 
 ####################
+\n 
 Se han usado:
   Pandas: Dado que se trabaja con un dataframe de data de varias observaciones, es lo más eficiente
   para la gestión de la información del archivo
 
   OS: Debido a la estructura del proyecto organizado carpeta por carpeta y dado que no se ha tocado
   el uso de archivos "__file__"
+\n
 ####################
+
+$$$$$$$$$$$$$$$$$$EJEMPLO DOCUMENTADO DE EJECUCIÓN $$$$$$$$$$$$$$$$$$$$$$$$
+
+
 :)
